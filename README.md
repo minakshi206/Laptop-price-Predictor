@@ -34,14 +34,14 @@ The project covers the complete ML lifecycle:
 
 ---
 
-## 🖥️ Price Comparison (Real vs Predicted)
+## 📊 Price Comparison (Real vs Predicted)
 
-### Amazon Real Price
+### 🛒 Amazon Real Price
 ![Amazon Price](images/amazon_price.jpeg)
 
-
-### Model Predicted Price (Dashboard)
+### 🤖 Model Predicted Price (Dashboard)
 ![Dashboard Prediction](images/dashboard_prediction.jpeg)
+
 
 
 ➡️ The predicted price is closely aligned with real-world market prices.
@@ -69,4 +69,5 @@ The project covers the complete ML lifecycle:
 
 ## 👩‍💻 Author
 **Meenakshi Thombare**
+
 
