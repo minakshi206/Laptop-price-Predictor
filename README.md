@@ -49,7 +49,7 @@ The project covers the complete ML lifecycle:
 ---
 
 ## 🌐 Live Dashboard
-🔗 **Live App Link:** (After deployment, paste Streamlit link here)
+🔗 **Live App Link:**(https://laptop-price-predictor-a5jqdnhgeshywqutlbpztr.streamlit.app/)
 
 ---
 
@@ -69,5 +69,6 @@ The project covers the complete ML lifecycle:
 
 ## 👩‍💻 Author
 **Meenakshi Thombare**
+
 
 
